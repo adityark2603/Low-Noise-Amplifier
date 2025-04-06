@@ -22,7 +22,10 @@ Applications of LNA:
 7. NMOS (gpdk 90nm):
 
    (I) length = 100n M
+   
    (II) total width = 60u M
+   
    (III) finger width = 6u M
+   
    (IV) threshold = 120n M
 
