@@ -6,11 +6,11 @@ A Low Noise Amplifier (LNA) is an electronic amplifier designed to amplify very 
 ![image](https://github.com/user-attachments/assets/971298ff-c2ad-4cdd-9639-2b5b3cf83df5)
 
 Applications of LNA:
-Wireless communication systems (WiFi, 5G, Bluetooth)
-Satellite receivers
-Radar systems
-Radio telescopes
-IoT and sensor-based systems
+1. Wireless communication systems (WiFi, 5G, Bluetooth)
+2. Satellite receivers
+3. Radar systems
+4. Radio telescopes
+5. IoT and sensor-based systems
 
-**Specific Values I used for making this LNA: **
+**Specific Values I used for making this LNA:**
 
