@@ -13,4 +13,15 @@ Applications of LNA:
 5. IoT and sensor-based systems
 
 **Specific Values I used for making this LNA:**
+1. PORT 0 (INPUT SIDE): R = 50 ohms, Frequency 1 = 2.4GHz, Source Type = sine
+2. PORT 1 (OUTPUT SIDE): R = 50 ohms, Source Type = sine
+3. C_0 = 1n F, C_1 = 10p F, C_2 = 345f F, C_3 = 680f F
+4. L_0 = 200p H, L_1 = 32.5n H, L_2 = 1n H, 5 ohms
+5. R_0 = 50k ohms
+6. V_0 = 600mV, V_1 = 1.2 v
+7. NMOS (gpdk 90nm):
+   (I) length = 100n M
+   (II) total width = 60u M
+   (III) finger width = 6u M
+   (IV) threshold = 120n M
 
