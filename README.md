@@ -12,7 +12,7 @@ A Low Noise Amplifier (LNA) is an electronic amplifier designed to amplify very 
 4. Radio telescopes
 5. IoT and sensor-based systems
 
-**Specific Values I used for making this LNA:**
+## Specific Values I used for making this LNA:
 1. PORT 0 (INPUT SIDE): R = 50 ohms, Frequency 1 = 2.4GHz, Source Type = sine
 2. PORT 1 (OUTPUT SIDE): R = 50 ohms, Source Type = sine
 3. C0 = 1n F, C1 = 10p F, C2 = 345f F, C3 = 680f F
