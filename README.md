@@ -12,6 +12,14 @@ A Low Noise Amplifier (LNA) is an electronic amplifier designed to amplify very 
 4. Radio telescopes
 5. IoT and sensor-based systems
 
+## Working Principle
+When a signal is received by an antenna, it's often very weak—sometimes just a few microvolts. Before this signal can be processed (filtered, demodulated, or digitized), it needs to be amplified without degrading the quality. The LNA performs this task by providing:
+
+1. High gain: Boosts the amplitude of the incoming signal.
+2. Low noise figure (NF): Ensures minimal noise is added during amplification.
+3. Input/output matching: Matches impedance with the antenna and following circuits to minimize reflection losses.
+
+
 ## Specific Values I used for making this LNA:
 1. PORT 0 (INPUT SIDE): R = 50 ohms, Frequency 1 = 2.4GHz, Source Type = sine
 2. PORT 1 (OUTPUT SIDE): R = 50 ohms, Source Type = sine
@@ -22,7 +30,6 @@ A Low Noise Amplifier (LNA) is an electronic amplifier designed to amplify very 
 7. NMOS (gpdk 90nm):
 
    (I) length = 100n M
-
    (II) total width = 60u M
    
    (III) finger width = 6u 
